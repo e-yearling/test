@@ -28,9 +28,10 @@ Once/Then [..]
 .. factors besides internal factors can entirely determine one's reason. 
 .. (immediate) external factors can entirely determine reason. 
 .. lasting senses like those of urgency and immediate/hedonic fulfillment can entirely determine one's reason.
-.. minimizing the lack of immediate/hedonic fulfillment can become entirely a dominant form of immediate/hedonic fulfillment
-   (and doing so directly necessitates minimizing uncertainty).
+.. minimizing the lack of immediate/hedonic fulfillment can become entirely a dominant source of immediate/hedonic fulfillment
+    (and doing so directly necessitates minimizing uncertainty).
 .. minimizing uncertainty can become entirely a dominant form of immediate/hedonic fulfillment.
+    (as minimizing the lack of immediate/hedonic fulfillment directly necessitates minimizing uncertainty).
 .. the (immediate) external factor of minimzing uncertainty determines reason
 
 >> uncertainty can become entirely a 'reason' not to execute. <<
